@@ -1,3 +1,3 @@
-### eTalent image files
+### image files for BC ILIT report
 
-logos etc.
+logos, provincial economic regions, etc.
